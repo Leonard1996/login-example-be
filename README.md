@@ -1,6 +1,6 @@
 ## Running the project
 
-npm i
+npm i then
 docker-compose up
 
 ## Application will start on port 5000
